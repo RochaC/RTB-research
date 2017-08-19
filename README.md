@@ -1,23 +1,24 @@
 # RTB-research
 
-## RTB\(Real-Time-Bidding\) research walk through.
+## RTB\(Real-Time-Bidding\) research walk through.  
 
 This is my research repo about the RTB, including code、data、paper and any other material I used. For now, all is about Demand-side-platform\(DSP\).
 
 ## Paper
 
----
-
 ### Bidding
+
+- **[Optimal Real-Time Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/optimal-rtb.pdf) by Weinan Zhang, Shuai Yuan, Jun Wang. KDD 2014.**   
+  This paper give theory foundation of optimal bidding algorithm which take budget and win rate into consideration. It prove to be an nonlinear bidding. The experiment result is better than the linear one. 
 
 - **[Bid Optimizing and Inventory Scoring in Targeted Online Advertising](http://wnzhang.net/share/rtb-papers/lin-bid.pdf) by Claudia Perlich et al. KDD 2012.**  
 
   This paper put forward the theory of a bidding algorithm now known as linear bidding. Use CTR as user experience feedback to adjust the system. But the linear bidding doesn’t take budget into consideration and will spent the money quickly if there’s no pace control. 
 
-- **[Optimal Real-Time Bidding for Display Advertising] by Weinan Zhang, Shuai Yuan, Jun Wang. KDD 2014.**   
-  This paper give theory foundation of optimal bidding algorithm which take budget and win rate into consideration. It prove to be an nonlinear bidding. The experiment result is better than the linear one. 
+  ​
 
-* ### CTR
+### CTR
+
 * **[Practical Lessons from Predicting Clicks on Ads at Facebook](http://wnzhang.net/share/rtb-papers/fb-ad-ctr.pdf) by Xinran He et al. ADKDD 2014.**    
 
   This paper formulate Normalized-Entropy as metrics and any other metrics explained. It also put forward the practice of GBDT+LR. \(A method use GBDT\(gradient boosting decision tree\) to do feature transformation.
