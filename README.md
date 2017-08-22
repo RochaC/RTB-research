@@ -11,7 +11,7 @@ This is my research repo about the RTB, including code、data、paper and any ot
 - **[Optimal Real-Time Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/optimal-rtb.pdf) by Weinan Zhang, Shuai Yuan, Jun Wang. KDD 2014.**   
   This paper give theory foundation of optimal bidding algorithm which take budget and win rate into consideration. It prove to be an nonlinear bidding. The experiment result is better than the linear one. 
 
-- **[Bid Optimizing and Inventory Scoring in Targeted Online Advertising](http://wnzhang.net/share/rtb-papers/lin-bid.pdf) by Claudia Perlich et al. KDD 2012.**  
+- **[Bid Optimizing and Inventory Scoring in Targeted Online Advertising](http://wnzhang.net/share/rtb-papers/lin-bid.pdf) by Claudia Perlich et al. KDD 2012.** [PPT is here](https://www.samsi.info/wp-content/uploads/2016/03/perlich_august2012.pdf)
 
   This paper put forward the theory of a bidding algorithm now known as linear bidding. Use CTR as user experience feedback to adjust the system. But the linear bidding doesn’t take budget into consideration and will spent the money quickly if there’s no pace control. 
 
