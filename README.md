@@ -2,11 +2,27 @@
 
 ## RTB\(Real-Time-Bidding\) research walk through.  
 
-This is my research repo about the RTB, including code、data、paper and any other material I used. For now, all is about Demand-side-platform\(DSP\).
+This is my material repo about the Computional Advertising. That's about the resource i read, some notes and memo.   
+
+Welcome to make friends in this industry. 
+
+# Book
+
+- **[Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://arxiv.org/abs/1610.03013) by Jun Wang, Weinan Zhang and Shuai Yuan. ArXiv 2016.**  
+
+  A very detail introduction book about RTB industry and technic detail with many paper reference.
+
+- Computational Advertising by Peng Liu, Chao Wang. 2015  
+
+  A good introduction book from almost all perspectives to talking about digital advertising. Copyright reserve. So no link..
 
 ## Paper
 
 ### Bidding
+
+- **[Optimal Real-Time Bidding for Display Advertising](http://discovery.ucl.ac.uk/1496878/1/weinan-zhang-phd-2016.pdf) by Weinan Zhang. PhD Thesis 2016.**  
+
+  Very excellent work about bid optimalization.  
 
 - **[Optimal Real-Time Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/optimal-rtb.pdf) by Weinan Zhang, Shuai Yuan, Jun Wang. KDD 2014.**   
   This paper give theory foundation of optimal bidding algorithm which take budget and win rate into consideration. It prove to be an nonlinear bidding. The experiment result is better than the linear one. 
