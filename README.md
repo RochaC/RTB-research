@@ -12,7 +12,7 @@ Welcome to make friends in this industry.
 
   A very detail introduction book about RTB industry and technic detail with many paper reference.
 
-- Computational Advertising by Peng Liu, Chao Wang. 2015  
+- **Computational Advertising by Peng Liu, Chao Wang. 2015**  
 
   A good introduction book from almost all perspectives to talking about digital advertising. Copyright reserve. So no link..
 
@@ -22,7 +22,7 @@ Welcome to make friends in this industry.
 
 - **[Optimal Real-Time Bidding for Display Advertising](http://discovery.ucl.ac.uk/1496878/1/weinan-zhang-phd-2016.pdf) by Weinan Zhang. PhD Thesis 2016.**  
 
-  Very excellent work about bid optimalization.  
+  Very excellent work about bid optimalization.  Detail research in the future.
 
 - **[Optimal Real-Time Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/optimal-rtb.pdf) by Weinan Zhang, Shuai Yuan, Jun Wang. KDD 2014.**   
   This paper give theory foundation of optimal bidding algorithm which take budget and win rate into consideration. It prove to be an nonlinear bidding. The experiment result is better than the linear one. 
@@ -43,9 +43,13 @@ Welcome to make friends in this industry.
 
   This paper do the summary for now about the evaluation metrics of model performance including but not except sponsor search, RTB..et al. AUC is not good enough to evaluate model performance, RIG is not much good for model compare.
 
+- **[Estimating Conversion Rate in Display Advertising from Past Performance Data](http://wnzhang.net/share/rtb-papers/cvr-est.pdf) by Kuang-chih Lee et al. KDD 2012.**
+
+  This paper explain a method like clustering the similar user whom has conversion to deal with the sparsity data. It also include some pratical technic skills like imbalanced dataset processing, result calibration. Experiment prove that the skewness would not affect the model performance but the probability scores it output and it still need calibrate.
+
 * **[Logistic Regression in Rare Events Data](https://gking.harvard.edu/files/0s.pdf) by Gary King and Langche Zeng. Political Analysis 2001**  
 
-   This paper is about correction in LR model in rare events data namely the imbalanced dataset.
+   This paper is about correction in LR model in rare events data, the imbalanced dataset. Two correction methods, afterward correction and weight correction.
 
 ## dataset
 
