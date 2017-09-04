@@ -35,6 +35,10 @@ Welcome to make friends in this industry.
 
 ### CTR
 
+* **[Simple and Scalable Response Prediction for Display Advertising](http://wnzhang.net/share/rtb-papers/ctr-chapelle.pdf) by Olivier Chapelle Criteo, Eren Manavoglu, Romer Rosales. ACM TIST 2014.**
+
+  Very specific CTR modeling process.
+
 * **[Practical Lessons from Predicting Clicks on Ads at Facebook](http://wnzhang.net/share/rtb-papers/fb-ad-ctr.pdf) by Xinran He et al. ADKDD 2014.**    
 
   This paper formulate Normalized-Entropy as metrics and any other metrics explained. It also put forward the practice of GBDT+LR. \(A method use GBDT\(gradient boosting decision tree\) to do feature transformation.
@@ -52,7 +56,17 @@ Welcome to make friends in this industry.
 
   This paper explain a method like clustering the similar user whom has conversion to deal with the sparsity data. It also include some pratical technic skills like imbalanced dataset processing, result calibration. Experiment prove that the skewness would not affect the model performance but the probability scores it output and it still need calibrate.
 
-* **[Logistic Regression in Rare Events Data](https://gking.harvard.edu/files/0s.pdf) by Gary King and Langche Zeng. Political Analysis 2001**  
+###  
+
+### Other Technique Tricks
+
+- **[Feature Hashing for Large Scale Multitask Learning](http://www.machinelearning.org/archive/icml2009/papers/407.pdf), by Kilian Weinberger et al.  2010**
+
+  This paper show great details about feature hash, including mathematic prove, application in spam email filter. NLP problem. It could also apply when there's need to reduce RAM. But google shows that, hash trick may induce great bias when there's great collision.
+
+  ​
+
+- **[Logistic Regression in Rare Events Data](https://gking.harvard.edu/files/0s.pdf) by Gary King and Langche Zeng. Political Analysis 2001**  
 
   This paper is about correction in LR model in rare events data, the imbalanced dataset. Two correction methods, afterward correction and weight correction.
 
