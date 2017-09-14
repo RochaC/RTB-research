@@ -60,6 +60,12 @@ Welcome to make friends in this industry.
 
 ### Other Technique Tricks
 
+- **Steffen Rendle (2010): *[Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)*, in Proceedings of the 10th IEEE International Conference on Data Mining (ICDM 2010), Sydney, Australia.**
+
+  Factorization machine. Widely used in Information Retrieve field. It extend LR, take 2nd  cross-feature into consideration. The idea is simple. But very useful.
+
+  ​
+
 - **[Feature Hashing for Large Scale Multitask Learning](http://www.machinelearning.org/archive/icml2009/papers/407.pdf), by Kilian Weinberger et al.  2010**
 
   This paper show great details about feature hash, including mathematic prove, application in spam email filter. NLP problem. It could also apply when there's need to reduce RAM. But google shows that, hash trick may induce great bias when there's great collision.
