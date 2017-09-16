@@ -60,6 +60,12 @@ Welcome to make friends in this industry.
 
 ### Other Technique Tricks
 
+- **Cheng H T, Koc L, Harmsen J, et al. [Wide & Deep Learning for Recommender Systems[J]](https://arxiv.org/pdf/1606.07792.pdf). 2016**
+
+  The paper have a detail explain the implimentation in Google Play. Use wide model to memorize data and deep model to generialize and using joint learning to learn the model. Google open source the code in tensorflow.
+
+  ​
+
 - **Steffen Rendle (2010): *[Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)*, in Proceedings of the 10th IEEE International Conference on Data Mining (ICDM 2010), Sydney, Australia.**
 
   Factorization machine. Widely used in Information Retrieve field. It extend LR, take 2nd  cross-feature into consideration. The idea is simple. But very useful.
