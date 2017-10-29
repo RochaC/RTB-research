@@ -90,5 +90,7 @@ Welcome to make friends in this industry.
 
   This dataset is the PC traffic data about RTB. It’s about 3 seasons data. Detail about the benchmark and the data dictionary is in this paper [Real-Time Bidding Benchmarking with iPinYou Dataset](https://arxiv.org/pdf/1407.7073.pdf) by Dr.Zhang.
 
+  And the benchmark data needed some preprocess at this [site](https://github.com/wnzhang/make-ipinyou-data), **the environment of script use python2.**
+
 
 
