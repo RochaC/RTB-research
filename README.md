@@ -56,7 +56,12 @@ Welcome to make friends in this industry.
 
   This paper explain a method like clustering the similar user whom has conversion to deal with the sparsity data. It also include some pratical technic skills like imbalanced dataset processing, result calibration. Experiment prove that the skewness would not affect the model performance but the probability scores it output and it still need calibrate.
 
-###  
+- **[T. Graepel, J. Quin ̃onero Candela, T. Borchert, and R. Herbrich. Web-scale bayesian click-through rate prediction for sponsored search advertising in Microsoft’s Bing search engine.](http://quinonero.net/Publications/AdPredictorICML2010-final.pdf) In ICML, pages 13–20, 2010.**
+
+  The Bayes methods of CTR.			
+
+
+  ​
 
 ### Other Technique Tricks
 
