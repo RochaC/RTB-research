@@ -37,7 +37,7 @@ Welcome to make friends in this industry.
 
 * **[Simple and Scalable Response Prediction for Display Advertising](http://wnzhang.net/share/rtb-papers/ctr-chapelle.pdf) by Olivier Chapelle Criteo, Eren Manavoglu, Romer Rosales. ACM TIST 2014.**
 
-  Very specific CTR modeling process.
+  Very specific CTR modeling process. Including model introduce, tricks of feature engineering, feature conjunctions, try multitasks learning, subsampling, regulazation, smoothing, calibration. Some useful experiment like Exploration/Exploitation. But a little obsolete for today (2017).
 
 * **[Practical Lessons from Predicting Clicks on Ads at Facebook](http://wnzhang.net/share/rtb-papers/fb-ad-ctr.pdf) by Xinran He et al. ADKDD 2014.**    
 
