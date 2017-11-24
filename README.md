@@ -60,6 +60,9 @@ Welcome to make friends in this industry.
 
   The Bayes methods of CTR.			
 
+### Pacing
+- **[Budget Pacing for Targeted Online Advertisements at LinkedIn](http://wnzhang.net/share/rtb-papers/linkedin-pacing.pdf) by Deepak Agarwal et al. KDD 2014.**
+  Pace control according to the incoming traffic. Cheap but effective. Useful information about the A/B experiment.
 
   ​
 
